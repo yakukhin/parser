@@ -6,13 +6,15 @@
       <file name="/Python Console" timestamp="1523862255970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/parser/test.py" timestamp="1523863212130">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/parser/test.py" timestamp="1523941685497">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/parser/soup.py" timestamp="1523912575341">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/parser/soup.py" timestamp="1523941730876">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -25,7 +27,7 @@
         <text encoding="base64">CnRhYmxlID0gc291cC5maW5kKCd1bCcsIGNsYXNzXz0ncm93cycpCnByaWNlID0gdGFibGUuZmluZCgnc3BhbicsIGNsYXNzXz0ncmVzdWx0LXByaWNlJykKcHJpbnQocHJpY2Uuc3RyaW5nKQonJyc=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CnRhYmxlID0gc291cC5maW5kKCd1bCcsIGNsYXNzXz0ncm93cycpCnByaWNlID0gdGFibGUuZmluZCgnc3BhbicsIGNsYXNzXz0ncmVzdWx0LXByaWNlJykKcHJpbnQocHJpY2Uuc3RyaW5nKQonJyc=</text>
+        <text>)</text>
       </register>
       <register name="2" type="4">
         <text>for span in span.find_all('li', class_='result-price'):
@@ -38,7 +40,7 @@
         <text encoding="base64">CicnJ25hdiA9IHNvdXAubmF2Cgpmb3IgdXJsIGluIG5hdi5maW5kX2FsbCgnYScpOgogICAgcHJpbnQodXJsLmdldCgnaHJlZicpKScnJw==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
