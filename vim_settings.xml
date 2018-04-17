@@ -11,11 +11,11 @@
         <mark key="]" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/parser/soup.py" timestamp="1523947859212">
+      <file name="$USER_HOME$/PycharmProjects/parser/soup.py" timestamp="1523953890917">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="22" column="5" />
-        <mark key="." line="22" column="5" />
+        <mark key="[" line="37" column="65" />
+        <mark key="]" line="37" column="65" />
+        <mark key="." line="37" column="65" />
       </file>
     </filemarks>
     <jumps>
@@ -31,7 +31,7 @@
 db.coime.slee</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>'0'</text>
       </register>
       <register name="2" type="4">
         <text>mmit()
@@ -51,7 +51,7 @@ t</text>
         <text encoding="base64">CicnJ25hdiA9IHNvdXAubmF2Cgpmb3IgdXJsIGluIG5hdi5maW5kX2FsbCgnYScpOgogICAgcHJpbnQodXJsLmdldCgnaHJlZicpKScnJw==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>'0'</text>
       </register>
     </registers>
     <search>
