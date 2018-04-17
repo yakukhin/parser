@@ -11,36 +11,47 @@
         <mark key="]" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/parser/soup.py" timestamp="1523941730876">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="13" column="22" />
-        <mark key="." line="13" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/parser/soup.py" timestamp="1523947859212">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="5" />
+        <mark key="." line="22" column="5" />
       </file>
     </filemarks>
     <jumps>
       <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/parser/soup.py" />
       <jump line="9" column="26" filename="$USER_HOME$/PycharmProjects/parser/soup.py" />
       <jump line="11" column="1" filename="$USER_HOME$/PycharmProjects/parser/soup.py" />
+      <jump line="24" column="12" filename="$USER_HOME$/PycharmProjects/parser/soup.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/parser/soup.py" />
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">CnRhYmxlID0gc291cC5maW5kKCd1bCcsIGNsYXNzXz0ncm93cycpCnByaWNlID0gdGFibGUuZmluZCgnc3BhbicsIGNsYXNzXz0ncmVzdWx0LXByaWNlJykKcHJpbnQocHJpY2Uuc3RyaW5nKQonJyc=</text>
+        <text>r.execute(&quot;update online set garage_door = %s&quot;,('test'))
+db.coime.slee</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text />
       </register>
       <register name="2" type="4">
+        <text>mmit()
+t</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CnRhYmxlID0gc291cC5maW5kKCd1bCcsIGNsYXNzXz0ncm93cycpCnByaWNlID0gdGFibGUuZmluZCgnc3BhbicsIGNsYXNzXz0ncmVzdWx0LXByaWNlJykKcHJpbnQocHJpY2Uuc3RyaW5nKQonJyc=</text>
+      </register>
+      <register name="4" type="4">
         <text>for span in span.find_all('li', class_='result-price'):
     print(span.text)</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Cm5hdiA9IHNvdXAubmF2CgpwcmludChuYXYp</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CicnJ25hdiA9IHNvdXAubmF2Cgpmb3IgdXJsIGluIG5hdi5maW5kX2FsbCgnYScpOgogICAgcHJpbnQodXJsLmdldCgnaHJlZicpKScnJw==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text />
       </register>
     </registers>
     <search>
