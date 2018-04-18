@@ -11,11 +11,12 @@
         <mark key="]" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/parser/soup.py" timestamp="1523990296860">
+      <file name="$USER_HOME$/PycharmProjects/parser/soup.py" timestamp="1524095052342">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="21" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="]" line="15" column="11" />
+        <mark key="." line="15" column="11" />
+        <mark key="^" line="15" column="11" />
       </file>
     </filemarks>
     <jumps>
